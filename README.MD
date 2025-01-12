@@ -276,6 +276,9 @@ User management allows you to control full access to all sections of the plugin 
 
 ## 4. Log Customization Panel
 
+![Product Sync Log Location](9.jpg)
+
+
 ### Overview
 The Log Customization feature provides complete control over automated reports and information filtering. This documentation explains how to access, configure, and manage log settings effectively.
 
@@ -315,6 +318,8 @@ The Log Customization panel is accessible through:
 - Individual selection checkboxes for bulk operations
 - Expandable text content (hover/click to view full text)
 
+![Product Sync Log Location](10.jpg)
+
 #### Footer Controls
 - Bulk Operations: 
   - "Deactive Selected": Temporarily deactivates chosen properties
@@ -335,6 +340,8 @@ The Log Customization panel is accessible through:
 - Consider the impact on report generation when deactivating properties
 
 ## 5. Display Settings Panel
+
+![Product Sync Log Location](11.jpg)
 
 ### Overview
 The Display Settings panel enables customization of plugin appearance and data storage behavior. This panel provides controls for how variable product data is stored and displayed within the system.
@@ -381,6 +388,9 @@ The Display Settings panel is accessible through:
 
 ## 6. Plugin Information
 
+![Product Sync Log Location](12.jpg)
+
+
 ### Overview
 This option allows you to view the complete metadata of the plugin.
 
@@ -400,6 +410,9 @@ The Display Settings panel is accessible through:
 - Contact: admin@mebrp.com
 
 ## 7. Diagnose Panel
+
+![Product Sync Log Location](13.jpg)
+
 
 ### Overview
 The Diagnose panel provides tools for identifying and resolving plugin issues. It enables website administrators to monitor, analyze, and manage error logs efficiently.
@@ -451,6 +464,8 @@ The panel shows one of two states:
 - Consider error patterns when planning maintenance
 
 ## 8. Product Sync Meta Box
+
+![Product Sync Log Location](14.jpg)
 
 ### Overview
 The Product Sync Meta Box provides detailed change tracking and management functionality within the WooCommerce product edit page. It allows users to view, manage, and document product changes efficiently.
