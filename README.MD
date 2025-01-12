@@ -10,10 +10,13 @@
 7. [Diagnose Panel](#7-diagnose-panel)
 8. [Product Sync Meta Box](#8-product-sync-meta-box)
 
+
 ## 1. Accessing the Product Sync Log
 ### Location:
+![Product Sync Log Location](1.jpg)
 - The Products menu is located in the WordPress admin sidebar, typically represented by a folder icon labeled "Products."
 - It is directly under the main WooCommerce menu item.
+![Product Sync Log Location](2.jpg)
 
 ### Accessing the Product Sync Log:
 1. Hover over the "Products" menu in the sidebar.
@@ -26,6 +29,7 @@
 - Home Icon: Returns to the main page.
 
 ## 2. Search Panel
+![Product Sync Log Location](3.jpg)
 
 ### Overview 
 The Search Panel provides comprehensive search functionality for product sync logs, allowing users to filter and locate specific log entries using multiple criteria.
@@ -70,6 +74,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Adjustable based on needs
 
 ### Results Display
+![Product Sync Log Location](4.jpg)
 
 #### Table Structure
 1. Header Section 
@@ -103,7 +108,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Click to open product editor
    - New tab navigation
    - Hover preview available
-
+![Product Sync Log Location](5.jpg)
 3. Detail View 
    - Modal dialog for full details
    - Expanded change information
@@ -148,8 +153,8 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Reduce result limit
    - Narrow date range
    - Specify more search criteria
-
 ## 3. User Management Panel
+![Product Sync Log Location](6.jpg)
 
 ### Overview
 User management allows you to control full access to all sections of the plugin for each user individually. 
@@ -184,6 +189,9 @@ User management allows you to control full access to all sections of the plugin 
 
 ### Main Interface Components
 
+![Product Sync Log Location](7.jpg)
+
+
 #### Table Structure
 1. Header Section 
    - Global selection toggle
@@ -205,6 +213,9 @@ User management allows you to control full access to all sections of the plugin 
    - Page information display
 
 ### Permission Management
+
+![Product Sync Log Location](8.jpg)
+
 
 #### Available Permissions
 1. Change Settings 
