@@ -14,15 +14,13 @@
 ## 1. Accessing the Product Sync Log
 ### Location:
 ![Product Sync Log Location](1.jpg)
-- The Products menu is located in the WordPress admin sidebar, typically represented by a folder icon labeled "Products."
-- It is directly under the main WooCommerce menu item.
+The Products menu is located in the WordPress admin sidebar, typically represented by a folder icon labeled "Products.It is directly under the main WooCommerce menu item.
 ![Product Sync Log Location](2.jpg)
 
 ### Accessing the Product Sync Log:
 1. Hover over the "Products" menu in the sidebar.
 2. Look for "Product Sync Log" in the submenu that appears.
-3. Click on "Product Sync Log" to access the synchronization history.
-4. You must have " Change Settings" permission to access this panel
+3. You must have "Change Settings" permission to access this panel
 
 ### Bottom Navigation:
 - Color Theme Selector: Dots for selecting the interface color theme.
@@ -65,7 +63,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
 
 4. Time and Order Controls 
    - Date range selection (Start/End dates)
-   - Support for multiple calendar formats
+   - Support for multiple calendar formats  (jalali and gregorian)
    - Order selection (Newest/Oldest first)
 
 5. Result Limitation 
@@ -88,7 +86,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Changes (previous/new values)
    - Modification Date
    - Username
-   - Notes
+   - Note
    - Action buttons
 
 3. Footer Section 
