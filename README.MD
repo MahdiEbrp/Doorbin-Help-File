@@ -1,7 +1,7 @@
-# Product Sync Log: A Comprehensive Guide
+# Taze Negar: A Comprehensive Guide
 
 ## Table of Contents
-1. [Accessing the Product Sync Log](#1-accessing-the-product-sync-log)
+1. [Accessing the Taze Negar](#1-accessing-the-taze-negar)
 2. [Search Panel](#2-search-panel)
 3. [User Management Panel](#3-user-management-panel)
 4. [Log Customization Panel](#4-log-customization-panel)
@@ -11,15 +11,15 @@
 8. [Product Sync Meta Box](#8-product-sync-meta-box)
 
 
-## 1. Accessing the Product Sync Log
+## 1. Accessing the Taze Negar
 ### Location:
-![Product Sync Log Location](1.jpg)
+![Taze Negar Location](1.jpg)
 The Products menu is located in the WordPress admin sidebar, typically represented by a folder icon labeled "Products.It is directly under the main WooCommerce menu item.
-![Product Sync Log Location](2.jpg)
+![Taze Negar Location](2.jpg)
 
-### Accessing the Product Sync Log:
+### Accessing the Taze Negar:
 1. Hover over the "Products" menu in the sidebar.
-2. Look for "Product Sync Log" in the submenu that appears.
+2. Look for "Taze Negar" in the submenu that appears.
 3. You must have "Change Settings" permission to access this panel
 
 ### Bottom Navigation:
@@ -27,10 +27,10 @@ The Products menu is located in the WordPress admin sidebar, typically represent
 - Home Icon: Returns to the main page.
 
 ## 2. Search Panel
-![Product Sync Log Location](3.jpg)
+![Taze Negar Location](3.jpg)
 
 ### Overview 
-The Search Panel provides comprehensive search functionality for product sync logs, allowing users to filter and locate specific log entries using multiple criteria.
+The Search Panel provides comprehensive search functionality for Taze Negars, allowing users to filter and locate specific log entries using multiple criteria.
 
 ### Important Warning:
 - You must have appropriate "Search" permissions to access this panel
@@ -39,7 +39,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
 - Date ranges should be within the log retention period
 
 ### Accessing the Panel
-- Located within the Product Sync Log plugin interface
+- Located within the Taze Negar plugin interface
 - "Back" button available for returning to the previous page
 - Centered "Search" title indicates current location
 
@@ -72,7 +72,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Adjustable based on needs
 
 ### Results Display
-![Product Sync Log Location](4.jpg)
+![Taze Negar Location](4.jpg)
 
 #### Table Structure
 1. Header Section 
@@ -106,7 +106,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Click to open product editor
    - New tab navigation
    - Hover preview available
-![Product Sync Log Location](5.jpg)
+![Taze Negar Location](5.jpg)
 3. Detail View 
    - Modal dialog for full details
    - Expanded change information
@@ -152,7 +152,7 @@ The Search Panel provides comprehensive search functionality for product sync lo
    - Narrow date range
    - Specify more search criteria
 ## 3. User Management Panel
-![Product Sync Log Location](6.jpg)
+![Taze Negar Location](6.jpg)
 
 ### Overview
 User management allows you to control full access to all sections of the plugin for each user individually. 
@@ -162,8 +162,8 @@ User management allows you to control full access to all sections of the plugin 
 - Exercise caution when assigning permissions, as they directly affect plugin security and functionality
 
 ### Accessing the Panel
-- Located within the Product Sync Log plugin settings
-- "Back" button returns you to the main Product Sync Log settings page
+- Located within the Taze Negar plugin settings
+- "Back" button returns you to the main Taze Negar settings page
 
 ### Access Permission Controls
 
@@ -187,7 +187,7 @@ User management allows you to control full access to all sections of the plugin 
 
 ### Main Interface Components
 
-![Product Sync Log Location](7.jpg)
+![Taze Negar Location](7.jpg)
 
 
 #### Table Structure
@@ -212,7 +212,7 @@ User management allows you to control full access to all sections of the plugin 
 
 ### Permission Management
 
-![Product Sync Log Location](8.jpg)
+![Taze Negar Location](8.jpg)
 
 
 #### Available Permissions
@@ -274,7 +274,7 @@ User management allows you to control full access to all sections of the plugin 
 
 ## 4. Log Customization Panel
 
-![Product Sync Log Location](9.jpg)
+![Taze Negar Location](9.jpg)
 
 
 ### Overview
@@ -287,8 +287,8 @@ The Log Customization feature provides complete control over automated reports a
 
 ### Accessing the Panel
 The Log Customization panel is accessible through:
-1. Product Sync Log plugin settings
-2. Use the "Back" button to return to the main Product Sync Log settings
+1. Taze Negar plugin settings
+2. Use the "Back" button to return to the main Taze Negar settings
 
 ### Control Features
 
@@ -316,7 +316,7 @@ The Log Customization panel is accessible through:
 - Individual selection checkboxes for bulk operations
 - Expandable text content (hover/click to view full text)
 
-![Product Sync Log Location](10.jpg)
+![Taze Negar Location](10.jpg)
 
 #### Footer Controls
 - Bulk Operations: 
@@ -339,7 +339,7 @@ The Log Customization panel is accessible through:
 
 ## 5. Display Settings Panel
 
-![Product Sync Log Location](11.jpg)
+![Taze Negar Location](11.jpg)
 
 ### Overview
 The Display Settings panel enables customization of plugin appearance and data storage behavior. This panel provides controls for how variable product data is stored and displayed within the system.
@@ -350,8 +350,8 @@ The Display Settings panel enables customization of plugin appearance and data s
 
 ### Accessing the Panel
 The Display Settings panel is accessible through:
-1. Product Sync Log plugin settings
-2. Use the "Back" button to return to the main Product Sync Log settings
+1. Taze Negar plugin settings
+2. Use the "Back" button to return to the main Taze Negar settings
 
 ### Control Features
 
@@ -386,7 +386,7 @@ The Display Settings panel is accessible through:
 
 ## 6. Plugin Information
 
-![Product Sync Log Location](12.jpg)
+![Taze Negar Location](12.jpg)
 
 
 ### Overview
@@ -394,11 +394,11 @@ This option allows you to view the complete metadata of the plugin.
 
 ### Accessing the Panel
 The Display Settings panel is accessible through:
-1. Product Sync Log plugin settings
-2. Use the "Back" button to return to the main Product Sync Log settings
+1. Taze Negar plugin settings
+2. Use the "Back" button to return to the main Taze Negar settings
 
 ### Core Information
-- Plugin Name: Product Sync Log
+- Plugin Name: Taze Negar
 - Version: Version of plugin
 - Release Date: Release date of plugin 
 
@@ -409,7 +409,7 @@ The Display Settings panel is accessible through:
 
 ## 7. Diagnose Panel
 
-![Product Sync Log Location](13.jpg)
+![Taze Negar Location](13.jpg)
 
 
 ### Overview
@@ -421,8 +421,8 @@ The Diagnose panel provides tools for identifying and resolving plugin issues. I
 
 ### Accessing the Panel
 The Diagnose panel is accessible through:
-1. Product Sync Log plugin settings
-2. Use the "Back" button to return to the main Product Sync Log settings
+1. Taze Negar plugin settings
+2. Use the "Back" button to return to the main Taze Negar settings
 
 ### Control Features
 
@@ -463,7 +463,7 @@ The panel shows one of two states:
 
 ## 8. Product Sync Meta Box
 
-![Product Sync Log Location](14.jpg)
+![Taze Negar Location](14.jpg)
 
 ### Overview
 The Product Sync Meta Box provides detailed change tracking and management functionality within the WooCommerce product edit page. It allows users to view, manage, and document product changes efficiently.
